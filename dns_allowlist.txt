@@ -14,6 +14,7 @@ exacttarget.com
 flysas.com
 go.uncrate.com
 goto.docker.com
+images.harmony.epsilon.com
 imd.ch
 info.kobo.com
 ink1001.com
@@ -25,7 +26,6 @@ micpn.com
 ojrq.net
 projects.hearstnp.com
 ris.res-x.com
-sr.rlcdn.com
 static.cdn.responsys.net
 static.iterable.com
 thetacdn.net
