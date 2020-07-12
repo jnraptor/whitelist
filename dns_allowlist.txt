@@ -5,6 +5,7 @@ assets.micpn.com
 bevisible.secure.force.com
 blankrefer.com
 bp.com
+chat.online.citi.com
 contentz.mkt8898.com
 dash.teams.cloudflare.com
 dojomojo.com
