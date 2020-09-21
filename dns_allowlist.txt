@@ -15,6 +15,7 @@ exacttarget.com
 flysas.com
 go.uncrate.com
 goto.docker.com
+icanhazip.com
 images.harmony.epsilon.com
 imd.ch
 info.kobo.com
