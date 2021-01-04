@@ -33,3 +33,4 @@ static.cdn.responsys.net
 static.iterable.com
 thetacdn.net
 viralsweep.com
+zscaler.net
