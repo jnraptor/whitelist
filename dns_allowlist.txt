@@ -23,6 +23,7 @@ ink1001.com
 insnw.net
 link.medium.com
 loggly.com
+logs.papertrailapp.com
 mediacdn.espssl.com
 micpn.com
 mkt4549.com
