@@ -28,11 +28,13 @@ mediacdn.espssl.com
 micpn.com
 mkt4549.com
 ojrq.net
+panpacific.com
 projects.hearstnp.com
 ris.res-x.com
 srx.com.sg
 static.cdn.responsys.net
 static.iterable.com
+tabula-rasa.pw
 thetacdn.net
 viralsweep.com
 zscaler.net
